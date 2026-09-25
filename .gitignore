@@ -1,0 +1,12 @@
+# compiled binaries
+exp1
+exp2
+main
+*.o
+*.out
+
+# experiment-generated data
+many_files/
+packed.txt
+test.txt
+big.txt
